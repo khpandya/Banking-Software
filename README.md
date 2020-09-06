@@ -1,4 +1,4 @@
 # Banking-Software
 C++ Project for day-to-day staff and customer interaction
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Turbo C++ IDE](https://github.com/khpandya/Banking-Software/program-images/Turbo C++ IDE.jpg?raw=true)
