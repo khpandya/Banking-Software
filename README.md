@@ -1,6 +1,7 @@
 # Banking-Software
 C++ Project for day-to-day staff and customer usage
-[alt](program-images/Entry Menu.jpg)
+
+![alt](program-images/Entry Menu.jpg)
 
 ### Overview
 This is a high school project I made, deliberately picking Turbo-C++ to experience the challenges programmers faced earlier (and also because it looked cool and people thought I was 'hacker-man' when I typed into a blue window instead of a modern IDE).
