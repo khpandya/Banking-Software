@@ -1,7 +1,6 @@
 # Banking-Software
 C++ Project for day-to-day staff and customer usage
 
-![alt](program-images/Entry Menu.jpg)
 ![alt](https://github.com/khpandya/Banking-Software/blob/01490427d16f0a1dda07f023a197d17769e13e15/program-images/Freeze.jpg)
 
 ### Overview
